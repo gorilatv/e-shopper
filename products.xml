@@ -1,0 +1,311 @@
+<products>
+    <product>
+        <img>../src/img/gaming-laptop.jpg</img>
+        <title>ASUS ROG Strix G16</title>
+        <price>$1,499.99</price>
+        <oldprice>$399.81</oldprice>
+        <link>https://amzn.to/3GFCJ4U</link>
+    </product>
+    <product>
+        <img>../src/img/military-smart.jpg</img>
+        <title>Military Smart Watches</title>
+        <price>$89.99</price>
+        <oldprice>$92.49</oldprice>
+        <link>https://amzn.to/3GMuvYE</link>
+    </product>
+    <product>
+        <img>../src/img/portable-waist.jpg</img>
+        <title>Portable Waist Fan</title>
+        <price>$25.49</price>
+        <oldprice>$49.99</oldprice>
+        <link>https://amzn.to/3ItjPyN</link>
+    </product>
+    <product>
+        <img>../src/img/amazfit.jpg</img>
+        <title>Amazfit Bip 6 Smart</title>
+        <price>$79.99</price>
+        <oldprice>$82.71</oldprice>
+        <link>https://amzn.to/4eSEnwK</link>
+    </product>
+    <product>
+        <img>../src/img/garmin.jpg</img>
+        <title>Garmin Instinctl</title>
+        <price>$278.99</price>
+        <oldprice>$449.99</oldprice>
+        <link>https://amzn.to/3THBAN3</link>
+    </product>
+    <product>
+        <img>../src/img/garmin.jpg</img>
+        <title>Garmin fēnix 7</title>
+        <price>$499.99</price>
+        <oldprice>$899.99</oldprice>
+        <link>https://amzn.to/44UuYjL</link>
+    </product>
+    <product>
+        <img>../src/img/amazfit.jpg</img>
+        <title>Amazfit T-Rex 3</title>
+        <price>$189.99</price>
+        <oldprice>$279.99</oldprice>
+        <link>https://amzn.to/3GPtSO1</link>
+    </product>
+    <product>
+        <img>../src/img/military.jpg</img>
+        <title>Military Smart Watches</title>
+        <price>$89.99</price>
+        <oldprice>$92.49</oldprice>
+        <link>https://amzn.to/3GMuvYE</link>
+    </product>
+    <product>
+        <img>../src/img/waist.jpg</img>
+        <title>Portable Waist Fan</title>
+        <price>$25.49</price>
+        <oldprice>$49.99</oldprice>
+        <link>https://amzn.to/3ItjPyN</link>
+    </product>
+    <product>
+        <img>../src/img/amazfit.jpg</img>
+        <title>Amazfit Bip 6 Smart</title>
+        <price>$79.99</price>
+        <oldprice>$82.71</oldprice>
+        <link>https://amzn.to/4eSEnwK</link>
+    </product>
+    <product>
+        <img>../src/img/garmin.jpg</img>
+        <title>Garmin Instinct</title>
+        <price>$278.99</price>
+        <oldprice>$449.99</oldprice>
+        <link>https://amzn.to/3THBAN3</link>
+    </product>
+    <product>
+        <img>../src/img/garmin_fenix.jpg</img>
+        <title>Garmin fēnix 7</title>
+        <price>$499.99</price>
+        <oldprice>$899.99</oldprice>
+        <link>https://amzn.to/44UuYjL</link>
+    </product>
+    <product>
+        <img>../src/img/amazfit_trex.jpg</img>
+        <title>Amazfit T-Rex 3</title>
+        <price>$189.99</price>
+        <oldprice>$279.99</oldprice>
+        <link>https://amzn.to/3GPtSO1</link>
+    </product>
+    <product>
+        <img>../src/img/motorcycle.jpg</img>
+        <title>JOYROOM Motorcycle Charger</title>
+        <price>$15.99</price>
+        <oldprice>$19.99</oldprice>
+        <link>https://amzn.to/4kK7lQC</link>
+    </product>
+    <product>
+        <img>../src/img/r36max.jpg</img>
+        <title>2025 New R36MAX</title>
+        <price>$99.99</price>
+        <oldprice>$109.99</oldprice>
+        <link>https://amzn.to/4locKOq</link>
+    </product>
+    <product>
+        <img>../src/img/zedge_monitor.jpg</img>
+        <title>Z-Edge 32 inch Monitor</title>
+        <price>$199.99</price>
+        <oldprice>$342.73</oldprice>
+        <link>https://amzn.to/4lzdwbw</link>
+    </product>
+    <product>
+        <img>../src/img/earbuds.jpg</img>
+        <title>NDO Wireless Earbuds</title>
+        <price>$22.99</price>
+        <oldprice>$229.99</oldprice>
+        <link>https://amzn.to/3IpMCEt</link>
+    </product>
+    <product>
+        <img>../src/img/sous_vide.jpg</img>
+        <title>2.4G WIFI Sous Vide Cooker</title>
+        <price>$90.99</price>
+        <oldprice>$106.61</oldprice>
+        <link>https://amzn.to/3U2qhzn</link>
+    </product>
+    <product>
+        <img>../src/img/bike_phone.jpg</img>
+        <title>Lamicall Bike Phone Mount</title>
+        <price>$14.97</price>
+        <oldprice>$18.99</oldprice>
+        <link>https://amzn.to/40O6sPS</link>
+    </product>
+    <product>
+        <img>../src/img/earbuds.jpg</img>
+        <title>TOZO A1 Wireless Earbuds</title>
+        <price>$12.98</price>
+        <oldprice>$19.99</oldprice>
+        <link>https://amzn.to/4lttCUb</link>
+    </product>
+    <product>
+        <img>../src/img/gmktec.jpg</img>
+        <title>GMKtec Mini PC, Intel Twin</title>
+        <price>$156.87</price>
+        <oldprice>$209.99</oldprice>
+        <link>https://amzn.to/4kIcDw6</link>
+    </product>
+    <product>
+        <img>../src/img/garmin.jpg</img>
+        <title>Garmin fēnix 7 Pro Sapphire Solar</title>
+        <price>$499.99</price>
+        <oldprice>$899.99</oldprice>
+        <link>https://amzn.to/3Ugc4yw</link>
+    </product>
+    <product>
+        <img>../src/img/cordless.jpg</img>
+        <title>Cordless Vacuum Cleaner</title>
+        <price>$89.98</price>
+        <oldprice>$149.99</oldprice>
+        <link>https://amzn.to/4o5qhMP</link>
+    </product>
+    <product>
+        <img>../src/img/portable.jpg</img>
+        <title>Portable Waist Fan</title>
+        <price>$25.49</price>
+        <oldprice>$49.99</oldprice>
+        <link>https://amzn.to/40KYsiA</link>
+    </product>
+    <product>
+        <img>../src/img/beribes.jpg</img>
+        <title>BERIBES Bluetooth Headphones</title>
+        <price>$19.98</price>
+        <oldprice>$28.99</oldprice>
+        <link>https://amzn.to/4nPbTI7</link>
+    </product>
+    <product>
+        <img>../src/img/esr-iphone.jpg</img>
+        <title>ESR for iPhone 16 Pro</title>
+        <price>$21.32</price>
+        <oldprice>$26.99</oldprice>
+        <link>https://amzn.to/4nNdDlj</link>
+    </product>
+    <product>
+        <img>../src/img/smart-karaoke.jpg</img>
+        <title>Smart Karaoke Machine</title>
+        <price>$349.99</price>
+        <oldprice>$469.99</oldprice>
+        <link>https://amzn.to/3Iw11yJ</link>
+    </product>
+    <product>
+        <img>../src/img/emeet.jpg</img>
+        <title>EMEET 1080P Webcam</title>
+        <price>$26.24</price>
+        <oldprice>$39.99</oldprice>
+        <link>https://amzn.to/46ElhIr</link>
+    </product>
+    <product>
+        <img>../src/img/alkaline.jpg</img>
+        <title>Energizer Alkaline Power AA</title>
+        <price>$11.98</price>
+        <oldprice>$14.98</oldprice>
+        <link>https://amzn.to/44Fa5dv</link>
+    </product>
+    <product>
+        <img>../src/img/ninja.jpg</img>
+        <title>Ninja Cookware</title>
+        <price>$349.99</price>
+        <oldprice>$599.99</oldprice>
+        <link>https://amzn.to/40ObR9y</link>
+    </product>
+    <product>
+        <img>../src/img/eufy.jpg</img>
+        <title>eufy E25 Omni Robot</title>
+        <price>$699.99</price>
+        <oldprice>$899.99</oldprice>
+        <link>https://amzn.to/3Iw15hX</link>
+    </product>
+    <!-- Continuação do XML até completar todos os produtos -->
+     <product>
+        <img>../src/img/magnetic.jpg</img>
+        <title>Magnetic for Iphone</title>
+        <price>$5.09</price>
+        <oldprice>$7.00</oldprice>
+        <link>https://amzn.to/3GH4r19</link>
+    </product>
+    <product>
+        <img>../src/img/respirador.jpg</img>
+        <title>Respirator Reusable</title>
+        <price>$16.73</price>
+        <oldprice>$29.99</oldprice>
+        <link>https://amzn.to/3IIrEAt</link>
+    </product>
+     <product>
+        <img>../src/img/eletric.jpg</img>
+        <title>Electric String</title>
+        <price>$59.99</price>
+        <oldprice>$89.99</oldprice>
+        <link>https://amzn.to/4lM5Hic</link>
+    </product>
+    <product>
+        <img>../src/img/universal.jpg</img>
+        <title>New Universal Remote</title>
+        <price>$9.96</price>
+        <oldprice>$14.97</oldprice>
+        <link>https://amzn.to/4ltBhBT</link>
+    </product>
+    <product>
+        <img>../src/img/hisense.jpg</img>
+        <title>Hisense 32-Inch Class</title>
+        <price>$99.99</price>
+        <oldprice>$149.99</oldprice>
+        <link>https://amzn.to/3IlOv51</link>
+    </product>
+    <product>
+        <img>../src/img/canshn.jpg</img>
+        <title>CANSHN Magnetic</title>
+        <price>$15.79</price>
+        <oldprice>$19.99</oldprice>
+        <link>https://amzn.to/4lwsDCC</link>
+    </product>
+    <product>
+        <img>../src/img/eviqo.jpg</img>
+        <title>EVIQO EV Charger</title>
+        <price>$394.00</price>
+        <oldprice>$510.00</oldprice>
+        <link>https://amzn.to/3U9G0MK</link>
+    </product>
+    <product>
+        <img>../src/img/small.jpg</img>
+        <title>Small Standing Desk</title>
+        <price>$55.98</price>
+        <oldprice>$89.99</oldprice>
+        <link>https://amzn.to/44MUWFy</link>
+    </product>
+    <product>
+        <img>../src/img/combo.jpg</img>
+        <title>Driver, Power Tool Combo Kit</title>
+        <price>$98.64</price>
+        <oldprice>$144.53</oldprice>
+        <link>https://amzn.to/4lsai9A</link>
+    </product>
+    <product>
+        <img>../src/img/airfry00.jpg</img>
+        <title>Air Fry</title>
+        <price>$119.99</price>
+        <oldprice>$179.00</oldprice>
+        <link>https://amzn.to/3IlsaVc</link>
+    </product>
+    <product>
+        <img>../src/img/stanley.jpg</img>
+        <title>Stanley</title>
+        <price>$15.15</price>
+        <oldprice>$22.99</oldprice>
+        <link>https://amzn.to/3IHDivs</link>
+    </product>
+    <product>
+        <img>../src/img/airfry01.jpg</img>
+        <title>Air Fry</title>
+        <price>$79.99</price>
+        <oldprice>$99.00</oldprice>
+        <link>https://amzn.to/44NlFlo</link>
+    </product>
+    <product>
+        <img>../src/img/airfry02.jpg</img>
+        <title>Air Fry</title>
+        <price>$57.39</price>
+        <oldprice>$99.00</oldprice>
+        <link>https://amzn.to/44NlFlo</link>
+    </product>
+</products>
