@@ -28,7 +28,7 @@
         <link>https://amzn.to/4eSEnwK</link>
     </product>
     <product>
-        <img>../src/img/garmin.jpg</img>
+        <img>../src/img/garmin-fenix.jpg</img>
         <title>Garmin Instinctl</title>
         <price>$278.99</price>
         <oldprice>$449.99</oldprice>
@@ -56,32 +56,32 @@
         <link>https://amzn.to/3GMuvYE</link>
     </product>
     <product>
-        <img>../src/img/waist.jpg</img>
-        <title>Portable Waist Fan</title>
-        <price>$25.49</price>
-        <oldprice>$49.99</oldprice>
-        <link>https://amzn.to/3ItjPyN</link>
+        <img>../src/img/monitor.jpg</img>
+        <title>Monitor</title>
+        <price>139.99</price>
+        <oldprice>$189.99</oldprice>
+        <link>https://amzn.to/3GPgSYK</link>
     </product>
     <product>
-        <img>../src/img/amazfit.jpg</img>
-        <title>Amazfit Bip 6 Smart</title>
-        <price>$79.99</price>
-        <oldprice>$82.71</oldprice>
-        <link>https://amzn.to/4eSEnwK</link>
+        <img>../src/img/monitor00.jpg</img>
+        <title>Gaming Monitor</title>
+        <price>$199.49</price>
+        <oldprice>$249.99 </oldprice>
+        <link>https://amzn.to/4nTOJ3x</link>
     </product>
     <product>
-        <img>../src/img/garmin.jpg</img>
-        <title>Garmin Instinct</title>
-        <price>$278.99</price>
-        <oldprice>$449.99</oldprice>
-        <link>https://amzn.to/3THBAN3</link>
+        <img>../src/img/monitor01.jpg</img>
+        <title>Gaming Monitor</title>
+        <price>$$157.69</price>
+        <oldprice>$169.99</oldprice>
+        <link>https://amzn.to/4lzcMmF</link>
     </product>
     <product>
-        <img>../src/img/garmin_fenix.jpg</img>
-        <title>Garmin fēnix 7</title>
-        <price>$499.99</price>
-        <oldprice>$899.99</oldprice>
-        <link>https://amzn.to/44UuYjL</link>
+        <img>../src/img/monitor02.jpg</img>
+        <title>Gaming Monitor</title>
+        <price>$129.99</price>
+        <oldprice>$249.99 </oldprice>
+        <link>https://amzn.to/3ICZO8R</link>
     </product>
     <product>
         <img>../src/img/amazfit_trex.jpg</img>
@@ -302,10 +302,10 @@
         <link>https://amzn.to/44NlFlo</link>
     </product>
     <product>
-        <img>../src/img/airfry02.jpg</img>
-        <title>Air Fry</title>
-        <price>$57.39</price>
-        <oldprice>$99.00</oldprice>
-        <link>https://amzn.to/44NlFlo</link>
+        <img>../src/img/mug.jpg</img>
+        <title>Mug's</title>
+        <price>$10.99</price>
+        <oldprice>$12.99</oldprice>
+        <link>https://amzn.to/3TMUylt</link>
     </product>
 </products>
